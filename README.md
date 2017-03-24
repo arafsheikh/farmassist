@@ -9,4 +9,8 @@ The app also aims to allow smart-farming by providing the farmer suggestions tha
 
 ## Screenshots
 
-*Coming soon*
+![](img/s1.png)
+![](img/s2.png)
+![](img/s3.png)
+![](img/s4.png)
+![](img/s5.png)
