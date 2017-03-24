@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="1066e076694255c2fb9800af2471f16fda56419a">
+        sha1="789177d9b32b451cd1700ece425e329536ab57d2">
         <dex dex="/home/debugger/AndroidStudioProjects/FarmAssist/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_696c34a800be87cd21cfc9dd87dcaa89b2c4d8b6/classes.dex" />
     </item>
     <item
@@ -66,6 +66,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/debugger/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/home/debugger/AndroidStudioProjects/FarmAssist/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_9962e330bd0c552b1fb3a588bf56a7001a10d7f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/debugger/AndroidStudioProjects/FarmAssist/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -79,7 +88,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="60a54091ca6ce0c3eba3cdfa6a2f3221885791e1">
+        sha1="4b78233e42d5bebf7807d22bdcfd4f804d5a4e26">
         <dex dex="/home/debugger/AndroidStudioProjects/FarmAssist/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_13e78c042353d4d698719347cc720302a415b2d9/classes.dex" />
     </item>
     <item
