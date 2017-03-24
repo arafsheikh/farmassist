@@ -15,6 +15,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".activities.FarmSetup" />
+        <activity android:name=".activities.AddCrop" />
+        <activity android:name=".activities.AddFertilizer" />
+        <activity android:name=".activities.CropDetails" />
+        <activity android:name=".activities.FertilizerDetails"></activity>
     </application>
 
 </manifest>

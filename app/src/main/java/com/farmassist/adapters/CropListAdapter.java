@@ -11,13 +11,15 @@ import android.widget.TextView;
 import com.farmassist.Constants;
 import com.farmassist.R;
 
+import java.util.ArrayList;
+
 public class CropListAdapter extends ArrayAdapter<String> {
 
     private final Activity context;
-    private final String[] cropName;
-    private final Integer[] cropType;
+    private final ArrayList<String> cropName;
+    private final ArrayList<Integer> cropType;
     public CropListAdapter(Activity context,
-                      String[] cropName, Integer[] cropType) {
+                           ArrayList<String> cropName, ArrayList<Integer> cropType) {
         super(context, R.layout.crop_list_view_single, cropName);
         this.context = context;
         this.cropName = cropName;
@@ -30,11 +32,11 @@ public class CropListAdapter extends ArrayAdapter<String> {
         TextView txtTitle = (TextView) rowView.findViewById(R.id.crop_list_view_single_text);
 
         ImageView imageView = (ImageView) rowView.findViewById(R.id.crop_list_view_single_ic);
-        txtTitle.setText(cropName[position]);
+        txtTitle.setText(cropName.get(position));
 
-        if (cropType[position] == Constants.CROP_TYPE.CASH_CROP) {
+        if (cropType.get(position) == Constants.CROP_TYPE.CASH_CROP) {
             imageView.setImageResource(R.drawable.ic_cash_crop);
-        } else if (cropType[position] == Constants.CROP_TYPE.FOOD_CROP) {
+        } else if (cropType.get(position) == Constants.CROP_TYPE.FOOD_CROP) {
             imageView.setImageResource(R.drawable.ic_food_crop);
         } else {
             imageView.setImageResource(R.drawable.ic_plantation_crop);
