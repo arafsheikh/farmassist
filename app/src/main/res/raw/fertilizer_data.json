@@ -1,0 +1,38 @@
+[
+  {
+    "FERTILIZER_NAME": "Urea",
+    "FERTILITY_FACTOR": 40
+  },
+  {
+    "FERTILIZER_NAME": "Ammonium Nitrate",
+    "FERTILITY_FACTOR": 35
+  },
+  {
+    "FERTILIZER_NAME": "Ammonium Sulfate",
+    "FERTILITY_FACTOR": 30
+  },
+  {
+    "FERTILIZER_NAME": "Calcium Nitrate",
+    "FERTILITY_FACTOR": 30
+  },
+  {
+    "FERTILIZER_NAME": "Diammonium Phosphate",
+    "FERTILITY_FACTOR": 60
+  },
+  {
+    "FERTILIZER_NAME": "Monoammonium phosphate",
+    "FERTILITY_FACTOR": 30
+  },
+  {
+    "FERTILIZER_NAME": "Triple Super Phosphate",
+    "FERTILITY_FACTOR": 80
+  },
+  {
+    "FERTILIZER_NAME": "Potassium Nitrate",
+    "FERTILITY_FACTOR": 50
+  },
+  {
+    "FERTILIZER_NAME": "Potassium Chloride",
+    "FERTILITY_FACTOR": 45
+  }
+]
