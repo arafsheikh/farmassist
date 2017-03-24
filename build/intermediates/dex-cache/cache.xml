@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/debugger/AndroidStudioProjects/FarmAssist/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/debugger/AndroidStudioProjects/FarmAssist/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_bd0072d1ac5dc31d5651b26b62b6fd0bf7adc3ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/debugger/AndroidStudioProjects/FarmAssist/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0f9744faa435610808d19dd63babf3622791d8ce">
+        <dex dex="/home/debugger/AndroidStudioProjects/FarmAssist/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_696c34a800be87cd21cfc9dd87dcaa89b2c4d8b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/debugger/AndroidStudioProjects/FarmAssist/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/debugger/AndroidStudioProjects/FarmAssist/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_b2e3409251c48fad076ba10b67ad57c20c10ab95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/debugger/AndroidStudioProjects/FarmAssist/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/debugger/AndroidStudioProjects/FarmAssist/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_db39df44f67bfbf190b91275dfc5582ee720e4ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/debugger/AndroidStudioProjects/FarmAssist/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ed79ab919a0dd2499109d6aeedb6bd71df5285e">
+        <dex dex="/home/debugger/AndroidStudioProjects/FarmAssist/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_13e78c042353d4d698719347cc720302a415b2d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/debugger/8eed0968-0ab4-4405-9e6c-ac85dd1a25d2/home/debugger/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/debugger/AndroidStudioProjects/FarmAssist/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_1ec92d8a61f70d61d6898dd29f99a5c74f2a7b27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/debugger/AndroidStudioProjects/FarmAssist/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/debugger/AndroidStudioProjects/FarmAssist/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_917be3ab1d6032673c0665d94b71b2c7b7701463/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/debugger/AndroidStudioProjects/FarmAssist/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/debugger/AndroidStudioProjects/FarmAssist/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.0.1_c5ddd77b3c3476c2000da34f0be2c77d9ca3933f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/debugger/AndroidStudioProjects/FarmAssist/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/home/debugger/AndroidStudioProjects/FarmAssist/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.0.1_29b1846bc4bdbd7a34be2fba8d2c23823e7e7b5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/debugger/AndroidStudioProjects/FarmAssist/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/debugger/AndroidStudioProjects/FarmAssist/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_2537e0c390bad4a54de3f211e7f98e8b877144b6/classes.dex" />
+    </item>
+
+</items>
